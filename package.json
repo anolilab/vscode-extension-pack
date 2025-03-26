@@ -1,7 +1,7 @@
 {
   "name": "anolilab-extension-pack",
   "displayName": "anolilab-extension-pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of extensions for Javascript and Typescript development",
   "categories": [
     "Extension Packs",
@@ -136,6 +136,6 @@
     "zardoy.ts-essential-plugins"
   ],
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.80.0"
   }
 }

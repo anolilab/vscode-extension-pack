@@ -4,6 +4,11 @@ All notable changes to the "anolilab-extension-pack" extension pack will be docu
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.1] - 2024-03-19
+
+### Changed
+- Updated VS Code engine requirement to ^1.80.0
+
 ## [1.0.0] - 2024-03-19
 
 ### Added
