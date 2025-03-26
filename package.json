@@ -5,12 +5,14 @@
   "description": "A collection of extensions for Javascript and Typescript development",
   "categories": [
     "Extension Packs",
-    "JavaScript",
-    "TypeScript",
-    "Development Tools",
     "Programming Languages",
     "Snippets",
+    "Linters",
     "Themes",
+    "Debuggers",
+    "Formatters",
+    "SCM Providers",
+    "Testing",
     "Other"
   ],
   "keywords": [
