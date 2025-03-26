@@ -1,0 +1,96 @@
+{
+  "name": "anolilab-extension-pack",
+  "displayName": "anolilab-extension-pack",
+  "version": "0.0.1",
+  "description": "A collection of extensions for Javascript and Typescript development",
+  "categories": [
+    "Extension Packs"
+  ],
+  "homepage": "https://github.com/anolilab/vscode-extension-pack#readme",
+  "bugs": {
+    "url": "https://github.com/anolilab/vscode-extension-pack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anolilab/vscode-extension-pack.git"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/prisis"
+    },
+    {
+      "type": "consulting",
+      "url": "https://anolilab.com/support"
+    }
+  ],
+  "license": "MIT",
+  "author": "Daniel Bannert <d.bannert@anolilab.de>",
+  "scripts": {
+    "sort-package-json": "sort-package-json ./package.json"
+  },
+  "devDependencies": {
+    "sort-package-json": "^3.0.0"
+  },
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "antfu.browse-lite",
+    "antfu.vite",
+    "arktypeio.arkdark",
+    "astro-build.astro-vscode",
+    "beardedbear.beardedicons",
+    "bierner.emojisense",
+    "bierner.markdown-mermaid",
+    "bierner.markdown-preview-github-styles",
+    "bradlc.vscode-tailwindcss",
+    "bungcip.better-toml",
+    "chamboug.js-auto-backticks",
+    "christian-kohler.npm-intellisense",
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "denoland.vscode-deno",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "editorconfig.editorconfig",
+    "edwinhuish.better-comments-next",
+    "esbenp.prettier-vscode",
+    "fey.oscura",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github",
+    "gruntfuggly.todo-tree",
+    "kamikillerto.vscode-colorize",
+    "lokalise.i18n-ally",
+    "mkxml.vscode-filesize",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.sublime-keybindings",
+    "ms-vscode.vscode-typescript-next",
+    "msjsdiag.debugger-for-chrome",
+    "mtxr.sqltools",
+    "nicoespeon.abracadabra",
+    "oderwat.indent-rainbow",
+    "oven.bun-vscode",
+    "prisma.prisma",
+    "prisma.prisma-insider",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "semanticdiff.semanticdiff",
+    "streetsidesoftware.code-spell-checker",
+    "timonwong.shellcheck",
+    "unifiedjs.vscode-mdx",
+    "usernamehw.errorlens",
+    "vincaslt.highlight-matching-tag",
+    "vitest.explorer",
+    "wix.vscode-import-cost",
+    "xyz.local-history",
+    "yoavbls.pretty-ts-errors",
+    "yutengjing.package-manager-enhancer",
+    "yzhang.markdown-all-in-one",
+    "zardoy.ts-essential-plugins"
+  ],
+  "engines": {
+    "vscode": "^1.98.0"
+  }
+}
