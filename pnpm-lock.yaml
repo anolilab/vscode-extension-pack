@@ -9,10 +9,10 @@ importers:
   .:
     devDependencies:
       '@vscode/vsce':
-        specifier: 3.3.1
-        version: 3.3.1
+        specifier: 3.3.2
+        version: 3.3.2
       sort-package-json:
-        specifier: ^3.0.0
+        specifier: ^3.4.0
         version: 3.4.0
 
 packages:
@@ -125,8 +125,8 @@ packages:
   '@vscode/vsce-sign@2.0.6':
     resolution: {integrity: sha512-j9Ashk+uOWCDHYDxgGsqzKq5FXW9b9MW7QqOIYZ8IYpneJclWTBeHZz2DJCSKQgo+JAqNcaRRE1hzIx0dswqAw==}
 
-  '@vscode/vsce@3.3.1':
-    resolution: {integrity: sha512-aZ+0UilLsSidWcY6qjQRmsNgJXfFvE3ihj0u9oNLMejFGBBYORTRua0KHx3kx+RW5pxvza2OepzTpct2OdhTUA==}
+  '@vscode/vsce@3.3.2':
+    resolution: {integrity: sha512-XQ4IhctYalSTMwLnMS8+nUaGbU7v99Qm2sOoGfIEf2QC7jpiLXZZMh7NwArEFsKX4gHTJLx0/GqAUlCdC3gKCw==}
     engines: {node: '>= 20'}
     hasBin: true
 
@@ -997,7 +997,7 @@ snapshots:
       '@vscode/vsce-sign-win32-arm64': 2.0.5
       '@vscode/vsce-sign-win32-x64': 2.0.5
 
-  '@vscode/vsce@3.3.1':
+  '@vscode/vsce@3.3.2':
     dependencies:
       '@azure/identity': 4.10.2
       '@vscode/vsce-sign': 2.0.6
