@@ -74,8 +74,8 @@
     "sort-package-json": "sort-package-json ./package.json"
   },
   "devDependencies": {
-    "@vscode/vsce": "3.6.0",
-    "sort-package-json": "^3.0.0"
+    "@vscode/vsce": "3.6.1",
+    "sort-package-json": "^3.4.0"
   },
   "extensionPack": [
     "aaron-bond.better-comments",
