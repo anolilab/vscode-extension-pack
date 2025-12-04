@@ -1,3 +1,4 @@
+base : https://github.com/aeipitek <aripitek09@gmail.com> <aripitek90@gmail.com>
 # Anolilab Extension Pack
 
 A collection of essential extensions for JavaScript and TypeScript development in Visual Studio Code.
