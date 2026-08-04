@@ -25,5 +25,8 @@ overrides:
   tmp@<0.2.6: '>=0.2.7'
   underscore@<=1.13.7: '>=1.13.8'
   undici@>=7.0.0 <7.18.2: '>=8.4.0'
-  undici@>=7.0.0 <7.24.0: '>=8.4.0'
+  undici@>=7.0.0 <7.24.0: '>=8.9.0'
   uuid@<11.1.1: '>=14.0.0'
+minimumReleaseAgeExclude:
+  # Renovate security update: undici@8.9.0
+  - undici@8.9.0
