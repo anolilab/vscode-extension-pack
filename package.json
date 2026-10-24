@@ -75,7 +75,7 @@
   },
   "devDependencies": {
     "@vscode/vsce": "4.0.0",
-    "sort-package-json": "^4.0.0"
+    "sort-package-json": "^4.1.0"
   },
   "extensionPack": [
     "aaron-bond.better-comments",
