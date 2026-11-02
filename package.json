@@ -74,7 +74,7 @@
     "sort-package-json": "sort-package-json ./package.json"
   },
   "devDependencies": {
-    "@vscode/vsce": "4.0.0",
+    "@vscode/vsce": "4.1.0",
     "sort-package-json": "^4.1.0"
   },
   "extensionPack": [
